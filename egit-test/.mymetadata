@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="egit-test"
+  id="myeclipse.1517394623173"
+  context-root="/egit-test"
+  j2ee-spec="5.0"
+  archive="egit-test.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
